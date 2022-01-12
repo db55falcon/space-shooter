@@ -4,5 +4,5 @@ from game import SpaceAsteroids
 
 if __name__ == "__main__":  # we only create the instance and call the loop if we run directly.
     space_asteroids = SpaceAsteroids()  # instance call
-    space_asteroids.main_loop()  # main loop call
+    space_asteroids.main_poop()  # main loop call
 
